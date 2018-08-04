@@ -161,7 +161,7 @@
     margin-right: 40px;
     padding: 25px;
     height: 400px;
-    width: 80%;
+    width: 100%;
     text-align: left;
     position: absolute;
  
@@ -250,8 +250,9 @@
 .myPicture {
     margin-left: -210px;
     padding-top: 20px;
-    position: absolute;
+    position: relative;
     float: left;
+    display: auto;
 
 }
 
@@ -369,10 +370,10 @@
     background-color: #4aaaa5;
     color: white;
     margin-top: -60px;
-    margin-left: 0px;
+    margin-left: 30px;
     padding-top: 10px;
     padding-bottom: 0px;
-    width: 158%;
+    width: 80%;
     height: 40px;
     float: left;
     position: relative;
@@ -384,10 +385,10 @@
     background-color: #4aaaa5;
     color: white;
     margin-top: -60px;
-    margin-left: 0px;
+    margin-left: 40px;
     padding-top: 10px;
     padding-bottom: 0px;
-    width: 158%;
+    width: 80%;
     height: 40px;
     float: left;
     position: relative;
@@ -399,10 +400,10 @@
     background-color: #4aaaa5;
     color: white;
     margin-top: -60px;
-    margin-left: 0px;
+    margin-left: 30px;
     padding-top: 10px;
     padding-bottom: 0px;
-    width: 158%;
+    width: 80%;
     height: 40px;
     float: left;
     position: relative;
@@ -415,10 +416,10 @@
     background-color: #4aaaa5;
     color: white;
     margin-top: -60px;
-    margin-left: 0px;
+    margin-left: 40px;
     padding-top: 10px;
     padding-bottom: 0px;
-    width: 158%;
+    width: 80%;
     height: 40px;
     float: left;
     position: relative;
@@ -431,10 +432,10 @@
     background-color: #4aaaa5;
     color: white;
     margin-top: -60px;
-    margin-left: 0px;
+    margin-left: 30px;
     padding-top: 10px;
     padding-bottom: 0px;
-    width: 158%;
+    width: 80%;
     height: 40px;
     float: left;
     position: relative;
