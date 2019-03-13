@@ -67,8 +67,8 @@ h2 {
     background-color: lightgray;
     margin-top: 220px;
     padding: 0px;
-    height: 800px;
-    width: 1260px;
+    height: 600px;
+    width: 90%;
     margin-left: -438px;
     position: fixed;
     text-align: center;
@@ -79,7 +79,7 @@ h2 {
     overflow: auto;
 }
 
-.giraffe {
+.alternative-medicine {
     position: relative;
     margin-top:20px;
     margin-left: 20px;
@@ -89,12 +89,24 @@ h2 {
 
 }
 
-.dogy {
+.bamazon {
 
     float: middle;
     width:30%;
     margin-top:20px;
+    margin-left:0px;
+    position: relative;
+    overflow: auto;
+
+}
+
+.Clicky{
+
+    
+    margin-top: -360px;
     margin-left: 20px;
+    float: left;
+    width: 30%;
     position: relative;
     overflow: auto;
 
@@ -111,17 +123,6 @@ h2 {
 
 }
 
-.horse{
-
-    
-    margin-top: -360px;
-    margin-left: 20px;
-    float: left;
-    width: 30%;
-    position: relative;
-    overflow: auto;
-
-}
 
 .nature{
 
@@ -143,7 +144,7 @@ h2 {
     overflow: auto;
 }
 
- .glabel {
+ .alabel {
 
     box-sizing: border-box;
     background-color: #4aaaa5;
@@ -160,7 +161,7 @@ h2 {
    
 } 
 
-.dlabel {
+.blabel {
     box-sizing: border-box;
     background-color: #4aaaa5;
     color: white;
@@ -190,7 +191,7 @@ h2 {
     z-index: 4;
 
 } 
-.hlabel {
+.clabel {
     box-sizing: border-box;
     background-color: #4aaaa5;
     color: white;
