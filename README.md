@@ -1,2 +1,2 @@
-# Basic-Portfolio
-My first portfolio
+# Portfolio
+My Portfolio
