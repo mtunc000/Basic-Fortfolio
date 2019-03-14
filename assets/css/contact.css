@@ -31,7 +31,7 @@ h1{
     background-color: white;
     color: gray;
     margin-top: 40px;
-    margin-left:-220px;
+    margin-left:-280px;
     float: left;
     text-align: center;
     
@@ -41,22 +41,17 @@ h1{
     background-color: white;
     color: gray;
     margin-top: 40px;
-    margin-left: -320px;
+    margin-left: -360px;
     float: left;
-    text-align: center;
-    border-right: 1px solid gray;   
+    text-align: center;  
 }
 .row.about {
     background-color: white;
     color: gray;
     margin-top: 40px;
     margin-left: -420px;
-    width: 10%;
-    height: 10px;
     float: left;
-    text-align: center;
-    border-right: 1px solid gray; 
-       
+    text-align: center;      
 }
 .box{
     box-sizing: content-box;
@@ -100,9 +95,7 @@ h1{
     height: 240px;
     margin-left: 0%;
 }
-/* label{
-    margin-left: -200px;
-} */
+
 form{
     margin-top: 180px;
     width: 100%;
@@ -113,14 +106,7 @@ label{
     width: 100%;
     margin-top:-60px;
 }
-/* .row1{
-     box-sizing: border-box;
-    margin-top: 80px;
-    margin-left: -120px;
-    float: right;
-    position: relative;
-    font-family: 'Times New Roman', Times, serif
-} */
+
 
 .form-control{
     margin-top:-40px;
