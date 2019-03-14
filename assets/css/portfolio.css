@@ -34,7 +34,7 @@ h2 {
     background-color: white;
     color: gray;
     margin-top: 40px;
-    margin-left:-210px;
+    margin-left:-280px;
     float: left;
     text-align: center;
     
@@ -44,22 +44,17 @@ h2 {
     background-color: white;
     color: gray;
     margin-top: 40px;
-    margin-left: -320px;
+    margin-left: -360px;
     float: left;
-    text-align: center;
-    border-right: 1px solid gray;   
+    text-align: center;  
 }
 .row.about {
     background-color: white;
     color: gray;
     margin-top: 40px;
     margin-left: -420px;
-    width: 10%;
-    height: 10px;
     float: left;
-    text-align: center;
-    border-right: 1px solid gray; 
-       
+    text-align: center;      
 }
 
 .column {
@@ -76,7 +71,7 @@ h2 {
 }
 .cf {
     clear: both;
-    overflow: auto;
+    
 }
 
 .alternative-medicine {
@@ -85,8 +80,6 @@ h2 {
     margin-left: 20px;
     float: left;
     width: 30%;
-    overflow: auto;
-
 }
 
 .bamazon {
@@ -96,7 +89,6 @@ h2 {
     margin-top:20px;
     margin-left:0px;
     position: relative;
-    overflow: auto;
 
 }
 
@@ -108,8 +100,6 @@ h2 {
     float: left;
     width: 30%;
     position: relative;
-    overflow: auto;
-
 }
 
 .liriBot{
@@ -119,8 +109,6 @@ h2 {
     float: right;
     width: 30%;
     position: relative;
-    overflow: auto;
-
 }
 
 
@@ -132,8 +120,6 @@ h2 {
     margin-top:-360px;
     margin-left: 20px;
     position: relative;
-   
-    overflow: auto;
 }
 
 .scheduler {
@@ -142,7 +128,6 @@ h2 {
     float: right;
     width: 30%;
     position: relative;
-    overflow: auto;
 }
 
  .alabel {
